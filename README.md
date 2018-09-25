@@ -1,4 +1,4 @@
-# Join Foton :zap:
+# :zap: Join Foton
 💻Open positions on Foton Tech Company
 
 ## Who are we?
