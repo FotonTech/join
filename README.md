@@ -12,9 +12,9 @@ We offer company shares and a competitive salary.
 ## Culture (by our CEO)
 "I created Foton because i wanted to work on the nicest company in the world, so i take our culture very seriously.
 
-Besides shares and a good salary, i want to offer a great place to work with open source and side projects so once a month the developer takes a day to work on whatever he wants.
+Besides shares and a good salary, i want to offer a great place to work with open source and side projects everywhere.
 
-I also motivate everyone to talk on conferences/meetups and see it an important path to become a better professional." -Jabur
+I also motivate everyone to talk on conferences/meetups and see it as an important path to become a better professional." -Jabur
 
 ## Fullstack Position(Remote or... remote :) )
 
