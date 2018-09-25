@@ -6,6 +6,16 @@ Foton is an ALL REMOTE tech company focused on mobile projects built with React 
 
 We work on Silicon Valley challenging projects and we are also building Apps in da House
 
+We are looking for passionate developers who wants to build the future with us.
+We offer company shares and a competitive salary.
+
+## Culture (by our CEO)
+"I created Foton because i wanted to work on the nicest company in the world, so i take our culture very seriously.
+
+Besides shares and a good salary, i want to offer a great place to work with open source and side projects so once a month the developer takes a day to work on whatever he wants.
+
+I also motivate everyone to talk on conferences/meetups and see it an important path to become a better professional." -Jabur
+
 ## Fullstack Position(Remote or... remote :) )
 
 Every Foton developer is a Fullstack Developer. So you should be comfortable on both sides
@@ -22,3 +32,5 @@ On the List screen the user should be able to see every created product with a s
 
 #### Detail
 On pressing any List item, the user should be navigated to a Detail screen where he can see more informations about the selected product.
+
+
