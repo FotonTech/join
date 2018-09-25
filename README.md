@@ -1,4 +1,4 @@
-# join
+# Join
 💻Open positions on Foton Tech Company
 
 ## Who are we?
