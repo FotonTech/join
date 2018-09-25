@@ -10,9 +10,9 @@ We are looking for passionate developers who wants to build the future with us.
 We offer company shares and a competitive salary.
 
 ## Culture (by our CEO)
-"I created Foton because i wanted to work on the nicest company in the world, so i take our culture very seriously.
+"I created Foton because after much professional experience on huge multinational companies such as General Electric or Siemens i wanted to work where I would feel myself as a fundamental part of it, so i take our culture very seriously and care a lot about the developers happiness.
 
-Besides shares and a good salary, i want to offer a great place to work with open source and side projects everywhere.
+Besides shares and a good salary, I want to offer a great place to work with open source and side projects everywhere.
 
 I also motivate everyone to talk on conferences/meetups and see it as an important path to become a better professional." -Jabur
 
