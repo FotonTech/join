@@ -1,7 +1,7 @@
-# :zap:Join Foton
+# Join Foton
 💻Open positions on Foton Tech Company
 
-## Who are we?
+## About us
 Foton is an ALL REMOTE tech company focused on mobile projects built with React Native/Relay/Apollo/Node/GraphQL(JS IT ALL).
 
 We work on Silicon Valley challenging projects and we are also building Apps in da House
