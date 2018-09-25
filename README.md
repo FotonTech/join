@@ -2,7 +2,7 @@
 💻Open positions on Foton Tech Company
 
 ## About us
-Foton is an ALL REMOTE tech company focused on mobile projects built with React Native/Apollo/Node/GraphQL(JS IT ALL).
+Foton is an ALL REMOTE tech company focused on mobile projects built with React Native/Apollo/Node/Mongo/GraphQL(JS IT ALL).
 
 We work on Silicon Valley challenging projects and we are also building Apps in da House
 
@@ -22,7 +22,7 @@ Every Foton developer is a Fullstack Developer. So you should be comfortable on 
 ### Challenge
 You can start the Challenge right now! Just clone the `Challenge` repo and build a ReactNative Auth/Create/List/Detail project.
 
-### 1. Auth
+#### 1. Auth
 On the Auth screen the user should be able to Login/Register
 
 #### 2. Create
