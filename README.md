@@ -38,6 +38,10 @@ On pressing any __List item__, the user should be navigated to a __Detail__ scre
 ### Our Redux Challenge
 You can start the Redux(Saga) [Challenge](https://github.com/FotonTech/Challenge-RN-ReduxSaga) right now! Just clone the repo and build a ReactNative Home/List/Detail with Redux Saga and ReactNative.
 
+### API
+You can fetch data from google books API, ex:
+`https://www.googleapis.com/books/v1/volumes?q=SEARCH_TERM`
+
 #### Design
 The design is available [Here](https://www.figma.com/file/NcOoOquO96zSQkxB4rM5SM5Q/books-app-travishowell?node-id=0%3A2)
 
