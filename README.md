@@ -19,50 +19,75 @@ __Jabur - CEO__
 ## Fullstack Position (Remote or... Remote :) )
 Every Foton developer is a Fullstack Developer. So you should be comfortable on both sides, and if you're not, we will train you.
 
-### Our GraphQL Challenge
-You can start the [Challenge](https://github.com/FotonTech/Challenge) right now! Just clone the repo and build a ReactNative Auth/Create/List/Detail project.
+### We currently only have positions for the redux challenge!
+### ~~Our GraphQL Challenge~~
+~~You can start the [Challenge](https://github.com/FotonTech/Challenge) right now! Just clone the repo and build a ReactNative Auth/Create/List/Detail project.~~
 
-#### 1. Auth
-On the __Auth__ screen the user should be able to *Login/Register*.
+#### ~~1. Auth~~
 
-#### 2. Create
-On the __Create__ screen the user should be able to *create a product* to be listed on the __List__ screen.
+~~On the __Auth__ screen the user should be able to *Login/Register*.~~
 
-#### 3. List
-On the __List__ screen the user should be able *to see* every created product with a *search bar* and *a scroll* to load more items.
+#### ~~2. Create~~
 
-#### 4. Detail
-On pressing any __List item__, the user should be navigated to a __Detail__ screen where he can see *more information* about the selected product.
+~~On the __Create__ screen the user should be able to *create a product* to be listed on the __List__ screen.~~
+
+#### ~~3. List~~
+
+~~On the __List__ screen the user should be able *to see* every created product with a *search bar* and *a scroll* to load more items.~~
+
+#### ~~4. Detail~~
+
+~~On pressing any __List item__, the user should be navigated to a __Detail__ screen where he can see *more information* about the selected product.~~
 
 
 ### Our Redux Challenge
-You can start the Redux(Saga) [Challenge](https://github.com/FotonTech/Challenge-RN-ReduxSaga) right now! Just clone the repo and build a ReactNative Home/List/Detail with Redux Saga and ReactNative.
+You can start the Redux Saga [Challenge](https://github.com/FotonTech/Challenge-RN-ReduxSaga) right now! Just clone the repo and build a Home/List/Detail app with Redux Saga and ReactNative.
 
-### API
-You can fetch data from google books API, ex:
-`https://www.googleapis.com/books/v1/volumes?q=SEARCH_TERM`
+#### API
+Use the [Google Books API](https://developers.google.com/books/docs/v1/using), for example:
+```
+const query = 'harry pot'
+https://www.googleapis.com/books/v1/volumes?q=${query}
+```
+
+1. __Must use__ redux saga for async operations.
+
+If you need help don't hesitate to ask us.
 
 #### Design
-The design is available [Here](https://www.figma.com/file/NcOoOquO96zSQkxB4rM5SM5Q/books-app-travishowell?node-id=0%3A2)
+The design is available [here](https://www.figma.com/file/NcOoOquO96zSQkxB4rM5SM5Q/books-app-travishowell?node-id=0%3A2) for the `List` and `Detail` views.
+For the `Home` screen there is no design, please make the screen based on your judgement and the other designs.
 
+1. Build the user interface to be **as close as possible** to the design.
 
-#### 1. Home
-The Home is a welcome screen, feel free to make the user feel at home and build your own design.
-On the __Home__ screen the user should be able to:
-1. Press a button and navigate to the List screen
+#### Home
+The Home is a welcome screen.
+1. Make the user feel at home.
+2. Build the screen with no design to look at.
+4. The home should "match" the other screens and look very similar.
 
+On this screen it's __required__ that the user is able to:
+1. Press a button and navigate to the List screen.
 
-#### 2. List
-On the __List__ screen the user should be able to:
+#### List
+On this screen it's __required__ that the user is able to:
 1. See a list of items.
-2. Pull to refresh the list(refetch).
-3. Scroll down and load more books.
-4. Search(filter) for books
+2. Pull to refresh the list (refetch).
+3. Scroll down and load more books (pagination).
+4. Search the books in the list (filter).
 5. Press one of the items and navigate the user to the Detail screen.
 
-#### 3. Detail
-On the __Detail__ screen the user should be able to:
-1. See more informations about the pressed book.
-2. Be able to press a Like, Rate and a Buy buttons(no need for API calls, just Frontend).
+#### Detail
+On this screen it's __required__ that the user is able to:
+1. See more information about the pressed book.
+2. Like, Rate and Buy the book.
 
-Thanks for reading and don't forget to be a finisher. Byee o/
+For 2. no need for API calls, just make the buttons clickable.
+
+
+#### Thanks for reading and don't forget to be a finisher. Byee o/
+
+<Image src='https://user-images.githubusercontent.com/15015324/48946886-4f169880-ef16-11e8-92ba-5754dcff6068.png'>
+
+_Designs copied here in case the link goes down. List (Books) in on the left, Detail (Single Book) on the right._
+_Design by travishowell_.
