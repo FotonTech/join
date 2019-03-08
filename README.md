@@ -20,24 +20,24 @@ __Jabur - CEO__
 Every Foton developer is a Fullstack Developer. So you should be comfortable on both sides, and if you're not, we will train you.
 
 ### We currently only have positions for the redux challenge!
-### ~~Our GraphQL Challenge~~
-~~You can start the [Challenge](https://github.com/FotonTech/Challenge) right now! Just clone the repo and build a ReactNative Auth/Create/List/Detail project.~~
+### Our GraphQL Challenge
+You can start the [Challenge](https://github.com/FotonTech/Challenge) right now! Just clone the repo and build a ReactNative Auth/Create/List/Detail project.
 
-#### ~~1. Auth~~
+#### 1. Auth
 
-~~On the __Auth__ screen the user should be able to *Login/Register*.~~
+On the __Auth__ screen the user should be able to *Login/Register*.
 
-#### ~~2. Create~~
+#### 2. Create
 
-~~On the __Create__ screen the user should be able to *create a product* to be listed on the __List__ screen.~~
+On the __Create__ screen the user should be able to *create a product* to be listed on the __List__ screen.
 
-#### ~~3. List~~
+#### 3. List
 
-~~On the __List__ screen the user should be able *to see* every created product with a *search bar* and *a scroll* to load more items.~~
+On the __List__ screen the user should be able *to see* every created product with a *search bar* and *a scroll* to load more items.
 
-#### ~~4. Detail~~
+#### 4. Detail
 
-~~On pressing any __List item__, the user should be navigated to a __Detail__ screen where he can see *more information* about the selected product.~~
+On pressing any __List item__, the user should be navigated to a __Detail__ screen where he can see *more information* about the selected product.
 
 
 ### Our Redux Challenge
