@@ -55,7 +55,7 @@ https://www.googleapis.com/books/v1/volumes?q=${query}
 If you need help don't hesitate to ask us.
 
 #### Design
-The design is available [here](https://www.figma.com/file/NcOoOquO96zSQkxB4rM5SM5Q/books-app-travishowell?node-id=0%3A2) for the `List` and `Detail` views.
+The design is available [here](https://www.figma.com/file/Yhdv5osVHEq7Fs9kKn2fIOiJ/books_sketch) for the `List` and `Detail` views.
 For the `Home` screen there is no design, please make the screen based on your judgement and the other designs.
 
 1. Build the user interface to be **as close as possible** to the design.
