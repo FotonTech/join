@@ -19,7 +19,8 @@ __Jabur - CEO__
 ## Fullstack Position (Remote or... Remote :) )
 Every Foton developer is a Fullstack Developer. So you should be comfortable on both sides, and if you're not, we will train you.
 
-### We currently only have positions for the redux challenge!
+### We currently have 2 challenges.
+
 ### Our GraphQL Challenge
 You can start the [Challenge](https://github.com/FotonTech/Challenge) right now! Just clone the repo and build a ReactNative Auth/Create/List/Detail project.
 
@@ -39,6 +40,7 @@ On the __List__ screen the user should be able *to see* every created product wi
 
 On pressing any __List item__, the user should be navigated to a __Detail__ screen where he can see *more information* about the selected product.
 
+# ------
 
 ### Our Redux Challenge
 You can start the Redux Saga [Challenge](https://github.com/FotonTech/Challenge-RN-ReduxSaga) right now! Just clone the repo and build a Home/List/Detail app with Redux Saga and ReactNative.
