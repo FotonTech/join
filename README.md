@@ -2,7 +2,7 @@
 💻 Open positions on Foton Tech Company.
 
 ## About us
-Foton is an ALL REMOTE tech company focused on mobile projects built with React Native, Apollo, Node, Mongo and GraphQL (JS IT ALL).
+Foton is an ALL REMOTE tech company focused on mobile projects built with React, React Native, GraphQL, Relay, NodeJS, MongoDB, Typescript and Jest.
 
 We work on challenging projects from Silicon Valley and we are also building Apps in da House.
 
