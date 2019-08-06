@@ -20,7 +20,6 @@ __Jabur - CEO__
 Every Foton developer is a Fullstack Developer. So you should be comfortable on both sides, and if you're not, we will help you :D
 
 ### Our Fullstack Challenge
-You can start the [Challenge](https://github.com/FotonTech/Challenge) right now! Just clone the repo and build a ReactNative Auth/Create/List/Detail project.
 
 #### 1. Auth
 
@@ -38,4 +37,4 @@ On the __List__ screen the user should be able *to see* every created product wi
 
 On pressing any __List item__, the user should be navigated to a __Detail__ screen where he can see *more information* about the selected product.
 
-#### Thanks for reading and don't forget to be a finisher. Byee o/
+#### Thanks for reading and don't forget to be a finisher.
