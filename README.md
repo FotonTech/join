@@ -21,6 +21,13 @@ Every Foton developer is a Fullstack Developer. So you should be comfortable on 
 
 ### Our Fullstack Challenge
 
+Create a GraphQL server
+- [ ] respect [relay server specification](https://relay.dev/docs/en/graphql-server-specification)
+
+Create a React Native app
+- [ ] it should use Relay Modern
+- [ ] it should be open sourced on your github repo
+
 #### 1. Auth
 
 On the __Auth__ screen the user should be able to *Login/Register*.
