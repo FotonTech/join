@@ -44,4 +44,8 @@ On the __List__ screen the user should be able *to see* every created product wi
 
 On pressing any __List item__, the user should be navigated to a __Detail__ screen where he can see *more information* about the selected product.
 
+## Highlight yourself
+
+https://twitter.com/renanmav/status/1189889564690788357
+
 #### Thanks for reading and don't forget to be a finisher.
