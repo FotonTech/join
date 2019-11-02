@@ -19,7 +19,7 @@ __Jabur - CEO__
 ## Fullstack Position (Presential at Florianópolis or Remote)
 Every Foton developer is a Fullstack Developer. So you should be comfortable on both sides, and if you're not, we will help you :D
 
-### Our Fullstack Challenge
+### Technical specs
 
 Create a GraphQL server
 - [ ] respect [relay server specification](https://relay.dev/docs/en/graphql-server-specification)
@@ -28,21 +28,25 @@ Create a React Native app
 - [ ] it should use Relay Modern
 - [ ] it should be open sourced on your github repo
 
+Should follow our design:
+https://www.figma.com/file/49iXUU4I4mfsUHctGlcU2j/FotonChallenge?node-id=0%3A1
+
+
 #### 1. Auth
 
-On the __Auth__ screen the user should be able to *Login/Register*.
+On the __Auth__ screen the user should be able to *Login and Register*.
 
 #### 2. Create
 
-On the __Create__ screen the user should be able to *create a product* to be listed on the __List__ screen.
+On the __Create__ screen the user should be able to *create a todo* to be listed on the __List__ screen.
 
 #### 3. List
 
-On the __List__ screen the user should be able *to see* every created product with a *search bar* and *a scroll* to load more items.
+On the __List__ screen the user should be able *to see* every created todo with a *search bar* and *a scroll* to load more items.
 
 #### 4. Detail
 
-On pressing any __List item__, the user should be navigated to a __Detail__ screen where he can see *more information* about the selected product.
+On pressing any __List item__, the user should be navigated to a __Detail__ screen where he can see *more information* about the selected todo.
 
 ## Highlight yourself
 
